@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+body{
+    text-align: center;
+    font-family: Architects Daughter;
+    background-image: url(https://image.freepik.com/free-vector/theater-stage-background_1284-3988.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    text-align: center;
+   text-decoration-color: black;
+  }
+a{
+   font-size: 35px;
+   text-decoration: none;
+   text-align: center;
+}
+image{
+    width: auto;
+    height:auto;
+    text-align: center;
+}
+input{
+    background-color: red;
+}
+#movies{
+    background-color: turquoise;
+}
